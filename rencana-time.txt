@@ -5,5 +5,7 @@ Rencana
 *pergi ke Mekkah
 - Interview orang-orang
 - Ingin belajar program
-1. Laravel
-2. PhP
+1. HTML
+2. CSS
+3. JavaScript
+
