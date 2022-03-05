@@ -2,10 +2,10 @@ Rencana
 
 - Ingin vlogging ke tempat-tempat seru di dunia
 *pergi ke Jepun
-*pergi ke New Zealand
 *pergi ke Mekkah
 - Interview orang-orang
 - Ingin belajar program
 1. HTML
 2. CSS
 3. JavaScript
+
