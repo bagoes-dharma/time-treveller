@@ -5,3 +5,6 @@ Rencana
 *pergi ke New Zealand
 *pergi ke Mekkah
 - Interview orang-orang
+- Ingin belajar program
+1. HTML
+2. CSS
