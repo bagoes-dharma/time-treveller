@@ -2,6 +2,8 @@ Rencana
 
 - Ingin vlogging ke tempat-tempat seru di dunia
 *pergi ke Jepun
-*pergi ke New Zealand
 *pergi ke Mekkah
 - Interview orang-orang
+- Ingin belajar program
+1. Laravel
+2. PhP
