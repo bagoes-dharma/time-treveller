@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.img-col {
+    flex-basis: 10%;
+}
+
+.text-col {
+    font-family: segoe UI;
+    color: white;
+}
